@@ -1,0 +1,26 @@
+.container {
+  margin: 10rem auto;
+  width: 40%;
+}
+
+.title {
+  color: #141414;
+  margin: 30px 0px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.subtitle {
+  color: #141414;
+  margin: 30px 0px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.link {
+  color: #2E81FA;
+  cursor: pointer;
+  font-weight: 400;
+}

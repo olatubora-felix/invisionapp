@@ -1,0 +1,17 @@
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  height: 100vh;
+}
+
+.left {
+  background-color: #f1f1f1;
+}
+
+.right{
+  background-color: #2E81FA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

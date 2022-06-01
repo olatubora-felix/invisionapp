@@ -1,0 +1,16 @@
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.title {
+  color: #fff;
+  text-align: center;
+  margin: 30px 0px;
+}
+
+.subtitle {
+  color: #fff;
+  text-align: center;
+  line-height: 1.6;
+}
