@@ -1,5 +1,5 @@
 .container {
-  margin: 10rem auto;
+  margin: 5rem auto;
   width: 40%;
 }
 
@@ -24,3 +24,22 @@
   cursor: pointer;
   font-weight: 400;
 }
+
+
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+  .title {
+  font-size: 24px;
+  color: #2E81FA;
+   margin: 20px 0px;
+  }
+    .subtitle {
+    color: #141414;
+    margin: 10px 0px;
+
+  }
+}
+
+

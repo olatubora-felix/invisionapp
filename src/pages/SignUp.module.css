@@ -15,3 +15,13 @@
   align-items: center;
   flex-direction: column;
 }
+
+
+@media (max-width: 768px) {
+  .grid {
+  grid-template-columns: 1fr;
+}
+  .right {
+    display: none;
+  }
+}

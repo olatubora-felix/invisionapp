@@ -5,7 +5,9 @@ const Right = () => {
   return (
     <div className={classes.container}>
       <h1 className={classes.title}>Welcome</h1>
-      <p className={classes.subtitle}>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi, pariatur! Voluptatum tenetur aliquid cumque distinctio nesciunt officia doloribus aperiam optio?</p>
+      <p className={classes.subtitle}>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi, pariatur! Voluptatum tenetur aliquid cumque distinctio nesciunt officia doloribus aperiam optio?
+      </p>
     </div>
   )
 }
